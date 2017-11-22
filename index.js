@@ -7,3 +7,4 @@ module.exports = { name, height
 }
 
 ```javascript
+if (name==="Susan")
