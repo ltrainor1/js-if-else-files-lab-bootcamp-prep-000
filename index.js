@@ -7,4 +7,3 @@ if (name==="Susan"){
   else{
     console.log("expected name to be Susan")
   }
-}
